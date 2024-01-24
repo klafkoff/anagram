@@ -8,9 +8,10 @@ The second string test is a valid anagram.
 
 `go run anagram.go`
 
-'''
+```
+$ go run anagram.go
 String A:[This is a test!] length:15  String B:[is This test! A] length:15
 Strings are unfortunately not anagrams!
 String A:[This is a test!] length:15  String B:[This is test! a] length:15
 Strings are anagrams!
-'''
+```
